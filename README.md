@@ -5,7 +5,7 @@ I started learning on my own, gained solid knowledge, and keep growing.
 Right now, I'm studying C# in a professional course. 
 My goal is to become a confident developer and build a career in game development.
 
-You can reach me via email at inviq.dev@gmail.com or on LinkedIn at [linkedin.com/in/kanstantsin-liashchou](www.linkedin.com/in/kanstantsin-liashchou).
+You can reach me via email at inviq.dev@gmail.com or on LinkedIn at [linkedin.com](www.linkedin.com/in/kanstantsin-liashchou).
 
 <!---
 inviqDev/inviqDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
